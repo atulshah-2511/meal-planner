@@ -3,3 +3,7 @@
 
 ## Main-Content
 ![alt img](https://github.com/atulshah-2511/meal-planner/blob/main/meal-2.png?raw=true)
+
+
+## Get-Recipe
+![alt img](https://github.com/atulshah-2511/meal-planner/blob/main/meal-3.png?raw=true)
